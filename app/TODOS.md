@@ -1,3 +1,17 @@
+# How to use these instructions
+It's always good to have a plan of what you're doing. The plan in bullet points is very close to things you can say copilot do to.
+
+Whenever you see something in double quoites, this is stuff you should enter into the chat.
+
+There are two in Jetbrains ways how to use Copilot:
+- adding a comment to a file and waiting for copilot to make a suggestion (there's also a shortcut for that....)
+- using the chat
+
+For people new with Copilot, we recommend to go with the Chat since it better helps to understand how copilot is reasoning.
+
+Shortcuts:
+- Ctrl-Shift-C: Opens the Chat for Copilot
+
 # User feedback: Switch two operators
 
 - [ ] Users reported that they need the exponential function more often than the % operator and would like to switch their place
