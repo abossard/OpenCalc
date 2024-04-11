@@ -2,6 +2,16 @@
 
 <img width="200" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" alt="OpenCalc" align="center">
 
+# Copilot Workshop Instruction
+
+This is a friendly little example how to use Copilot with Android Studio
+Prerequisites:
+- Android Studio
+- Copilot plugin installed
+- Logged in with GitHub account
+
+Open the TODOS.md and follow the instructions there.
+
 # OpenCalc
 
 ### A simple and beautiful calculator for Android.
